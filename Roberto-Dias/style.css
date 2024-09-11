@@ -1,0 +1,34 @@
+h2  {
+    color: aqua;
+    margin-left: 550px;
+    }
+td  {
+    font-weight: 200;
+    }
+body { 
+    background-color: brown;
+    }
+img {
+     margin-left: 510px;}
+ h1 {
+    color: aqua;
+    margin-left: 550px;
+    }
+table,th,td,tr {border: 2px solid black;
+    color: aqua;
+    margin-left: 500px;
+    width: 100px;
+    padding: 10px 10px 10px 10px;
+    }
+p   {
+    color: aqua;
+     margin-left: 500px;
+    }  
+h3  {
+    color: aqua;
+    margin-left: 500px;
+    }  
+li  {
+    color: aqua;
+    margin-left: 500px;
+    }
